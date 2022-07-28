@@ -1,0 +1,41 @@
+.content{
+    margin: 5%;
+    background-color: #fff;
+    padding: 2rem 2rem 1rem 1rem;
+    box-shadow: 0 0 5px 5px rgba(0,0,0,.05);
+}
+.signin-text{
+    font-weight: 600;
+    padding: 15px;
+}
+.form-group{
+    padding: 15px;
+}
+.form-check{
+    padding: 15px;
+}
+
+.form-control{
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-color: #00ac96;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    padding: 0px;
+    color: #495057;
+    height: auto;
+    border-radius: 0;
+    background-color: #fff;
+    background-clip: padding-box;
+}
+.btn-outline-dark{
+    margin: 3%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.btn-primary{
+    margin: 2%;
+}
